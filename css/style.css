@@ -33,6 +33,45 @@ body {
 
 }
 
+.main span {
+
+      font-size: 26px;
+
+}
+
+.form-cta {
+    display: grid;
+    grid-template-columns: 500px 250px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .form-cta input {
+    padding: 20px 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+
+  .form-cta button{
+
+background-color: red;
+outline: none;
+border: none;
+color: white;
+font-size: 30px;
+text-transform: uppercase;
+
+
+  }
+
+
+
+.main p {
+
+font-size: 15px;
+
+}
+
 .gradient {
 
     background: rgba(0, 0, 0, 0.4);
